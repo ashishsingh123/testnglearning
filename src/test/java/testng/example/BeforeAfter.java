@@ -13,7 +13,7 @@ public class BeforeAfter {
 
     @Test
     public void testCase() {
-        System.out.println(" *** Test method ***");
+        System.out.println(" **** Test method ***");
     }
 
 
