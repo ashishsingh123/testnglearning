@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +26,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1cx4eFmsw74bJB33ld4XKe0WZHx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -47,73 +51,55 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.SoftAssertionTest.testCaseOne">
-    <configuration name="HardAssertionTest.testCaseOne" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.FF">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexample.access.modifier.defaultp.B" />
       <module name="testnglearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testng.example.*" />
+          <option name="PATTERN" value="javaexample.access.modifier.defaultp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testng.example" />
-      <option name="MAIN_CLASS_NAME" value="testng.example.HardAssertionTest" />
-      <option name="METHOD_NAME" value="testCaseOne" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImplementationOfTestListner" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexample.access.modifier.defaultp.BB" />
       <module name="testnglearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testng.example.listner.*" />
+          <option name="PATTERN" value="javaexample.access.modifier.defaultp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testng.example.listner" />
-      <option name="MAIN_CLASS_NAME" value="testng.example.listner.ImplementationOfTestListner" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SkippedTestcases.testCaseOne" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="E" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexample.access.modifier.protectedP.E" />
       <module name="testnglearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testng.example.*" />
+          <option name="PATTERN" value="javaexample.access.modifier.protectedP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testng.example" />
-      <option name="MAIN_CLASS_NAME" value="testng.example.SkippedTestcases" />
-      <option name="METHOD_NAME" value="testCaseOne" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoftAssertionTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="FF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexample.access.modifier.protectedP.FF" />
       <module name="testnglearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testng.example.*" />
+          <option name="PATTERN" value="javaexample.access.modifier.protectedP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testng.example" />
-      <option name="MAIN_CLASS_NAME" value="testng.example.SoftAssertionTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FF" />
+        <item itemvalue="Application.E" />
+        <item itemvalue="Application.B" />
+        <item itemvalue="Application.BB" />
         <item itemvalue="TestNG.SoftAssertionTest.testCaseOne" />
-        <item itemvalue="TestNG.ImplementationOfTestListner" />
-        <item itemvalue="TestNG.SkippedTestcases.testCaseOne" />
-        <item itemvalue="TestNG.HardAssertionTest.testCaseOne" />
-        <item itemvalue="TestNG.SoftAssertionTest" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +144,19 @@
       <updated>1591457003646</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
