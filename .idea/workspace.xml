@@ -51,26 +51,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FF">
-    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaexample.access.modifier.defaultp.B" />
+  <component name="RunManager" selected="Application.AnyClass">
+    <configuration name="AnyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexample.thisP.AnyClass" />
       <module name="testnglearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaexample.access.modifier.defaultp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaexample.access.modifier.defaultp.BB" />
-      <module name="testnglearning" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaexample.access.modifier.defaultp.*" />
+          <option name="PATTERN" value="javaexample.thisP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,6 +78,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example1Inheritence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexample.inheritence.Example1Inheritence" />
+      <module name="testnglearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaexample.inheritence.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaexample.access.modifier.protectedP.FF" />
       <module name="testnglearning" />
@@ -104,31 +104,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoftAssertionTest.testCaseOne" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexample.superP.SubClass" />
       <module name="testnglearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testng.example.*" />
+          <option name="PATTERN" value="javaexample.superP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testng.example" />
-      <option name="MAIN_CLASS_NAME" value="testng.example.SoftAssertionTest" />
-      <option name="METHOD_NAME" value="testCaseOne" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AnyClass" />
+        <item itemvalue="Application.SubClass" />
+        <item itemvalue="Application.Example1Inheritence" />
         <item itemvalue="Application.FF" />
         <item itemvalue="Application.E" />
-        <item itemvalue="Application.B" />
-        <item itemvalue="Application.BB" />
-        <item itemvalue="TestNG.SoftAssertionTest.testCaseOne" />
       </list>
     </recent_temporary>
   </component>
