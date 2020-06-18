@@ -10,7 +10,9 @@ class Student{
         name = n;
     }
     //method to display the values
-    void display (){System.out.println(rollno+" "+name+" "+college);}
+    void display (){
+        System.out.println(rollno+" "+name+" "+college);
+    }
 }
 //Test class to show the values of objects
 public class TestStaticVariable1{

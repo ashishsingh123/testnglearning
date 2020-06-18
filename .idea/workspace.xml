@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestStaticVariable1">
+  <component name="RunManager" selected="Application.Counter2">
     <configuration name="AnyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaexample.thisP.AnyClass" />
       <module name="testnglearning" />
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example1Inheritence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaexample.inheritence.Example1Inheritence" />
+    <configuration name="Counter2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexample.staticP.Counter2" />
       <module name="testnglearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaexample.inheritence.*" />
+          <option name="PATTERN" value="javaexample.staticP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaexample.access.modifier.protectedP.FF" />
+    <configuration name="Example1Inheritence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexample.inheritence.Example1Inheritence" />
       <module name="testnglearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaexample.access.modifier.protectedP.*" />
+          <option name="PATTERN" value="javaexample.inheritence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Counter2" />
         <item itemvalue="Application.TestStaticVariable1" />
         <item itemvalue="Application.AnyClass" />
         <item itemvalue="Application.SubClass" />
         <item itemvalue="Application.Example1Inheritence" />
-        <item itemvalue="Application.FF" />
       </list>
     </recent_temporary>
   </component>

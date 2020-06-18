@@ -27,8 +27,12 @@ class AnyClass
         this.methodOne();      //Accessing same class method
     }
 
+    public AnyClass abc()
+    {
+        return this;
+    }
     public static void main(String a[])
     {
-        new AnyClass().methodTwo();
+        new AnyClass().abc();
     }
 }

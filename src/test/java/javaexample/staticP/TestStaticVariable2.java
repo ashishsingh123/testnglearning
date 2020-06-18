@@ -10,6 +10,7 @@ class Counter2{
 
     public static void main(String args[]){
 //creating objects
+        System.out.println(count);
         Counter2 c1=new Counter2();
         Counter2 c2=new Counter2();
         Counter2 c3=new Counter2();
