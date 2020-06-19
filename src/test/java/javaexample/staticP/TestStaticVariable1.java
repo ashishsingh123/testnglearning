@@ -3,7 +3,7 @@ package javaexample.staticP;
 class Student{
     int rollno;//instance variable
     String name;
-    static String college ="ITS";//static variable
+    static String college ="ITS";//static variables
     //constructor
     Student(int r, String n){
         rollno = r;
