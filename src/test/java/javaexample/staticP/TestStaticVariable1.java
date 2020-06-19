@@ -11,7 +11,7 @@ class Student{
     }
     //method to display the values
     void display (){
-        System.out.println(rollno+" "+name+" "+college);
+        System.out.println(rollno+": "+name+" :"+college);
     }
 }
 //Test class to show the values of objects
