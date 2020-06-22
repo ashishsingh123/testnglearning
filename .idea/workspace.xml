@@ -51,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Counter2">
+  <component name="RunManager" selected="Application.MethodOverriding">
     <configuration name="AnyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaexample.thisP.AnyClass" />
       <module name="testnglearning" />
@@ -78,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example1Inheritence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaexample.inheritence.Example1Inheritence" />
+    <configuration name="MethodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexample.Override.MethodOverriding" />
       <module name="testnglearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaexample.inheritence.*" />
+          <option name="PATTERN" value="javaexample.Override.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MethodOverriding" />
         <item itemvalue="Application.Counter2" />
         <item itemvalue="Application.TestStaticVariable1" />
         <item itemvalue="Application.AnyClass" />
         <item itemvalue="Application.SubClass" />
-        <item itemvalue="Application.Example1Inheritence" />
       </list>
     </recent_temporary>
   </component>
