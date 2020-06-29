@@ -29,6 +29,9 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -51,13 +54,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MethodOverriding">
-    <configuration name="AnyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaexample.thisP.AnyClass" />
+  <component name="RunManager" selected="Application.ReturnValue3">
+    <configuration name="ExceptionHandling1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexample.exceptionP.ExceptionHandling1" />
       <module name="testnglearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaexample.thisP.*" />
+          <option name="PATTERN" value="javaexample.exceptionP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Counter2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaexample.staticP.Counter2" />
+    <configuration name="ExceptionHandling2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexample.exceptionP.ExceptionHandling2" />
       <module name="testnglearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaexample.staticP.*" />
+          <option name="PATTERN" value="javaexample.exceptionP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaexample.Override.MethodOverriding" />
+    <configuration name="JavaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="program.JavaExample" />
       <module name="testnglearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaexample.Override.*" />
+          <option name="PATTERN" value="program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaexample.superP.SubClass" />
+    <configuration name="ReturnValue3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexample.exceptionP.ReturnValue3" />
       <module name="testnglearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaexample.superP.*" />
+          <option name="PATTERN" value="javaexample.exceptionP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStaticVariable1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaexample.staticP.TestStaticVariable1" />
+    <configuration name="TestJavaCollection2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaexample.collectionP.TestJavaCollection2" />
       <module name="testnglearning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaexample.staticP.*" />
+          <option name="PATTERN" value="javaexample.collectionP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodOverriding" />
-        <item itemvalue="Application.Counter2" />
-        <item itemvalue="Application.TestStaticVariable1" />
-        <item itemvalue="Application.AnyClass" />
-        <item itemvalue="Application.SubClass" />
+        <item itemvalue="Application.ReturnValue3" />
+        <item itemvalue="Application.ExceptionHandling2" />
+        <item itemvalue="Application.ExceptionHandling1" />
+        <item itemvalue="Application.JavaExample" />
+        <item itemvalue="Application.TestJavaCollection2" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +163,16 @@
           <url>file://$PROJECT_DIR$/src/test/java/testng/example/SimpleTestFactory.java</url>
           <line>10</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/javaexample/generics/GenericasInJava4.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/javaexample/exceptionP/CustomException2.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/testng/example/listner/TestListner.java</url>
